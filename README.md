@@ -1,4 +1,4 @@
-# app-posting
+# App-Posting
 Aplikasi berbasis PHP dengan framework Laravel versi 8 dan database mysql serta tampilan menggunakan Bootstrap. 
 Pada aplikasi ini user dapat melakukan posting text dan upload gambar serta dapat mengedit dan menghapus postingan yang sudah dibuat.
 Terdiri dari 2 halaman yaitu dashboard yang berisi seluruh postingan semua user, dan 1 halaman untuk detail postingan yang dibuat.
