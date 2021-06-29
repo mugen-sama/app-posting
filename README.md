@@ -8,3 +8,7 @@ Terdiri dari 2 halaman yaitu dashboard yang berisi seluruh postingan semua user,
 User role terdiri dari admin dan user biasa, dimana admin dapat melakukan proses CRUD terhadap semua psotingan user, tetapi user biasa hanya dapat melihat postingan user lain dan hanya mengedit dan menghapus postingan miliknya sendiri. 
 
 Authentication user dibuat menggunakan auth middleware bawaan laravel 8.
+
+Akun admin : [username : mugenkun] [password : 12345678] 
+
+Akun user : [username : ekoinsite] [password : 12345678]
